@@ -17,7 +17,7 @@ class Context(object):
 				self.deactivate_context()
 
 class FirstGreeting(Context):
-
+	
 	def __init__(self):
 		self.lifespan = 1
 		self.name = 'FirstGreeting'
@@ -26,7 +26,7 @@ class FirstGreeting(Context):
 class GetRegNo(Context):
 
 	def __init__(self):
-		print('Hi')
+		#print('Hi')
 		self.lifespan = 1
 		self.name = 'GetRegNo'
 		self.active = True
@@ -48,7 +48,7 @@ class SpellConformation(Context):
 		self.correct = CorrectWord
 		self.tobecorrected = user_input
 		self.contexttobestored = context
-        
+		
 class GetTariff(Context):
 
 	def __init__(self):

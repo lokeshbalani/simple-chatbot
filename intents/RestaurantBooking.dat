@@ -1,3 +1,9 @@
+Book a table
+Book a table in $rloc
+Book a table at $rloc
+Book a table at $cuisine restaurant in $rloc
+Book a table in nearest restaurant
+Book a table in nearby table
 Find $cost restaurant
 Find $cost restaurant in $rloc
 Find a $cuisine restaurant in $rloc
@@ -274,7 +280,6 @@ Find a $cuisine restaurant with game room in $location
 Find a $cuisine restaurant with game room at $location
 Find a restaurant with with game room in $location
 Find a restaurant with with game room at $location
-
 Find a restaurant with live cricket match screening
 Find a $cuisine restaurant with live cricket match screening
 Find a $cuisine restaurant with live cricket match screening in $location
@@ -608,7 +613,6 @@ get a $cuisine restaurant with game room in $location
 get a $cuisine restaurant with game room at $location
 get a restaurant with with game room in $location
 get a restaurant with with game room at $location
-
 get a restaurant with live cricket match screening
 get a $cuisine restaurant with live cricket match screening
 get a $cuisine restaurant with live cricket match screening in $location
@@ -649,7 +653,6 @@ get nonvegetarian restaurant in $rloc
 get non-veg restaurant in $rloc
 get non-vegetarian restaurant in $rloc
 get best restaurant in $rloc
-
 need $cost restaurant
 need $cost restaurant in $rloc
 need a $cuisine restaurant in $rloc
@@ -926,7 +929,6 @@ need a $cuisine restaurant with game room in $location
 need a $cuisine restaurant with game room at $location
 need a restaurant with with game room in $location
 need a restaurant with with game room at $location
-
 need a restaurant with live cricket match screening
 need a $cuisine restaurant with live cricket match screening
 need a $cuisine restaurant with live cricket match screening in $location
@@ -1243,7 +1245,6 @@ book a $cuisine restaurant with game room in $location
 book a $cuisine restaurant with game room at $location
 book a restaurant with with game room in $location
 book a restaurant with with game room at $location
-
 book a restaurant with live cricket match screening
 book a $cuisine restaurant with live cricket match screening
 book a $cuisine restaurant with live cricket match screening in $location
@@ -1284,7 +1285,6 @@ book nonvegetarian restaurant in $rloc
 book non-veg restaurant in $rloc
 book non-vegetarian restaurant in $rloc
 book best restaurant in $rloc
-
 suggest $cost restaurant
 suggest $cost restaurant in $rloc
 suggest a $cuisine restaurant in $rloc
@@ -1561,7 +1561,6 @@ suggest a $cuisine restaurant with game room in $location
 suggest a $cuisine restaurant with game room at $location
 suggest a restaurant with with game room in $location
 suggest a restaurant with with game room at $location
-
 suggest a restaurant with live cricket match screening
 suggest a $cuisine restaurant with live cricket match screening
 suggest a $cuisine restaurant with live cricket match screening in $location
@@ -1602,7 +1601,6 @@ suggest nonvegetarian restaurant in $rloc
 suggest non-veg restaurant in $rloc
 suggest non-vegetarian restaurant in $rloc
 suggest best restaurant in $rloc
-
 Find $cost eatery
 Find $cost eatery in $rloc
 Find a $cuisine eatery in $rloc
@@ -1879,7 +1877,6 @@ Find a $cuisine eatery with game room in $location
 Find a $cuisine eatery with game room at $location
 Find a eatery with with game room in $location
 Find a eatery with with game room at $location
-
 Find a eatery with live cricket match screening
 Find a $cuisine eatery with live cricket match screening
 Find a $cuisine eatery with live cricket match screening in $location
@@ -2213,7 +2210,6 @@ get a $cuisine eatery with game room in $location
 get a $cuisine eatery with game room at $location
 get a eatery with with game room in $location
 get a eatery with with game room at $location
-
 get a eatery with live cricket match screening
 get a $cuisine eatery with live cricket match screening
 get a $cuisine eatery with live cricket match screening in $location
@@ -2254,7 +2250,6 @@ get nonvegetarian eatery in $rloc
 get non-veg eatery in $rloc
 get non-vegetarian eatery in $rloc
 get best eatery in $rloc
-
 need $cost eatery
 need $cost eatery in $rloc
 need a $cuisine eatery in $rloc
@@ -2531,7 +2526,6 @@ need a $cuisine eatery with game room in $location
 need a $cuisine eatery with game room at $location
 need a eatery with with game room in $location
 need a eatery with with game room at $location
-
 need a eatery with live cricket match screening
 need a $cuisine eatery with live cricket match screening
 need a $cuisine eatery with live cricket match screening in $location
@@ -2848,7 +2842,6 @@ book a $cuisine eatery with game room in $location
 book a $cuisine eatery with game room at $location
 book a eatery with with game room in $location
 book a eatery with with game room at $location
-
 book a eatery with live cricket match screening
 book a $cuisine eatery with live cricket match screening
 book a $cuisine eatery with live cricket match screening in $location
@@ -2889,7 +2882,6 @@ book nonvegetarian eatery in $rloc
 book non-veg eatery in $rloc
 book non-vegetarian eatery in $rloc
 book best eatery in $rloc
-
 suggest $cost eatery
 suggest $cost eatery in $rloc
 suggest a $cuisine eatery in $rloc
@@ -3166,7 +3158,6 @@ suggest a $cuisine eatery with game room in $location
 suggest a $cuisine eatery with game room at $location
 suggest a eatery with with game room in $location
 suggest a eatery with with game room at $location
-
 suggest a eatery with live cricket match screening
 suggest a $cuisine eatery with live cricket match screening
 suggest a $cuisine eatery with live cricket match screening in $location
@@ -3207,7 +3198,6 @@ suggest nonvegetarian eatery in $rloc
 suggest non-veg eatery in $rloc
 suggest non-vegetarian eatery in $rloc
 suggest best eatery in $rloc
-
 Find $cost food joint
 Find $cost food joint in $rloc
 Find a $cuisine food joint in $rloc
@@ -3484,7 +3474,6 @@ Find a $cuisine food joint with game room in $location
 Find a $cuisine food joint with game room at $location
 Find a food joint with with game room in $location
 Find a food joint with with game room at $location
-
 Find a food joint with live cricket match screening
 Find a $cuisine food joint with live cricket match screening
 Find a $cuisine food joint with live cricket match screening in $location
@@ -3818,7 +3807,6 @@ get a $cuisine food joint with game room in $location
 get a $cuisine food joint with game room at $location
 get a food joint with with game room in $location
 get a food joint with with game room at $location
-
 get a food joint with live cricket match screening
 get a $cuisine food joint with live cricket match screening
 get a $cuisine food joint with live cricket match screening in $location
@@ -4491,7 +4479,6 @@ book nonvegetarian food joint in $rloc
 book non-veg food joint in $rloc
 book non-vegetarian food joint in $rloc
 book best food joint in $rloc
-
 suggest $cost food joint
 suggest $cost food joint in $rloc
 suggest a $cuisine food joint in $rloc
@@ -5084,7 +5071,6 @@ Find a $cuisine cafe with game room in $location
 Find a $cuisine cafe with game room at $location
 Find a cafe with with game room in $location
 Find a cafe with with game room at $location
-
 Find a cafe with live cricket match screening
 Find a $cuisine cafe with live cricket match screening
 Find a $cuisine cafe with live cricket match screening in $location
@@ -5418,7 +5404,6 @@ get a $cuisine cafe with game room in $location
 get a $cuisine cafe with game room at $location
 get a cafe with with game room in $location
 get a cafe with with game room at $location
-
 get a cafe with live cricket match screening
 get a $cuisine cafe with live cricket match screening
 get a $cuisine cafe with live cricket match screening in $location

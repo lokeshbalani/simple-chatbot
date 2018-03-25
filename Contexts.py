@@ -48,3 +48,11 @@ class SpellConformation(Context):
 		self.correct = CorrectWord
 		self.tobecorrected = user_input
 		self.contexttobestored = context
+        
+class GetTariff(Context):
+
+	def __init__(self):
+		#print('Hi')
+		self.lifespan = 1
+		self.name = 'GetTariff'
+		self.active = True

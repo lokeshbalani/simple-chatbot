@@ -1,0 +1,305 @@
+HOTEL NAME,LOCATION,STAR RATING,TARIFF
+The Oberoi Cecil,HIMACHAL PRADESH,5 Star,24912
+The Lalit Grand Palace,JAMMU AND KASHMIR,5 Star,8960
+Hotel Fateh Prakash Palace,RAJASTHAN,5 Star,30496
+Shiv Niwas Palace,RAJASTHAN,5 Star,29269
+Savoy Hotel,TAMIL NADU,5 Star,13466
+Raheem Residency,KERALA,5 Star,29359
+Noor Us Sabah Palace,MADHYA PRADESH,5 Star,34752
+The Panjim Inn,GOA,5 Star,24307
+Balaram Palace Resort,GUJARAT,5 Star,18821
+Nilambag Palace Hotel,GUJARAT,5 Star,10635
+The Fort Ramgarh,HARYANA,5 Star,22754
+The Judges Court,HIMACHAL PRADESH,3 Star,2389
+The Palace,HIMACHAL PRADESH,3 Star,33979
+The Castle Naggar,HIMACHAL PRADESH,3 Star,4611
+Hotel Cherthala House,KERALA,3 Star,19932
+Heritaga Methanam,KERALA,3 Star,7297
+Old Lighthouse Bristow Hotel,KERALA,3 Star,21408
+Hotel Le Colonial,KERALA,3 Star,39571
+Kunnathur Mana Ayurveda Heritage,KERALA,3 Star,28682
+Old Harbour Hotel,KERALA,3 Star,29299
+Coconut Lagoon,KERALA,3 Star,38528
+Beach Hotel,KERALA,3 Star,39186
+Palakkad Heritage Hotels,KERALA,3 Star,3664
+Somatheeram Ayurvedic Beach Resort (P) Ltd.,KERALA,5 Star,11736
+The Hillway Heritage,KERALA,5 Star,29555
+Ahilya Fort,MADHYA PRADESH,5 Star,22666
+Hotel Rock End Manor,MADHYA PRADESH,5 Star,31372
+Satpura Retreat,MADHYA PRADESH,3 Star,10386
+Hotel Sheesh Mahal,MADHYA PRADESH,3 Star,20925
+Jehan Numa Palace Hotel,MADHYA PRADESH,4 Star,5244
+LE DUPLEIX,PONDICHERRY,2 Star,26632
+"Welcome Heritage, Khimsar Fort",RAJASTHAN,2 Star,10753
+The Bagh,RAJASTHAN,2 Star,7112
+Gajner Palace,RAJASTHAN,2 Star,7254
+The Laxmi Niwas Palace,RAJASTHAN,2 Star,6753
+Chomu Palace,RAJASTHAN,2 Star,31818
+Bissau Palace,RAJASTHAN,2 Star,7973
+Deogarh Resorts,RAJASTHAN,5 Star,25980
+Shikarbadi Hotel,RAJASTHAN,5 Star,1114
+Welcom Heritage - Koolwal Kothi,RAJASTHAN,5 Star,32002
+Ajit Bhawan,RAJASTHAN,5 Star,23839
+Hotel Samode Palace,RAJASTHAN,5 Star,24051
+Raj Niwas Palace,RAJASTHAN,5 Star,28331
+Hotel Castle Mandawa Pvt.Ltd.,RAJASTHAN,2 Star,21359
+Rohet Garh,RAJASTHAN,2 Star,39123
+Lake Pichola Hotel,RAJASTHAN,2 Star,30593
+The Ramgarh Lodge,RAJASTHAN,2 Star,18115
+Hotel Indra Villas,RAJASTHAN,2 Star,30073
+Singhasan Haveli,RAJASTHAN,2 Star,7436
+Fort Khejarla,RAJASTHAN,2 Star,19770
+Sardargarh Heritage Hotel,RAJASTHAN,5 Star,1127
+The Sawai Madhopur Lodge,RAJASTHAN,5 Star,38515
+Karni Bhawan Palace,RAJASTHAN,5 Star,39582
+Norkhill Hotel,SIKKIM,5 Star,28701
+Visalam,TAMIL NADU,5 Star,1002
+Hotel Fairhavens Holiday Home,UTTARAKHAND,5 Star,14630
+The Naini Retreat,UTTARAKHAND,5 Star,28289
+The Elgin Hotel,WEST BENGAL,5 Star,32816
+Taj Falaknuma Palace,ANDHRA PRADESH,5 Star,6348
+ITC HOTEL KAKATIYA,ANDHRA PRADESH,5 Star,28468
+Eros Hotel Managed by Hilton,DELHI,5 Star,36263
+The Ashok,DELHI,5 Star,15338
+Hotel Imperial,DELHI,5 Star,8934
+Hyatt Regency Delhi,DELHI,5 Star,21092
+ITC-The Maurya,DELHI,5 Star,26826
+Le Meridien Hotel,DELHI,5 Star,3354
+Taj Palace Hotel,DELHI,5 Star,30535
+The Lalit,DELHI,5 Star,17587
+The Oberoi - New Delhi,DELHI,5 Star,27428
+"Aman, New Delhi",DELHI,1 Star,11600
+The Hotel Leela Palace Kempinski,DELHI,1 Star,8377
+Riviera De Goa Resort,GOA,1 Star,35400
+Vivanta by Taj - Panaji,GOA,5 Star,2131
+Vivanta by Taj - Holiday,GOA,5 Star,4970
+Bell Tower Resorts Pvt.Ltd.,GOA,1 Star,1318
+Hotel Ramada Caravela Beach Resort,GOA,1 Star,35406
+Vivanta By Taj- Fort Aguada,GOA,5 Star,14781
+Th Lalit Golf & Spa Resort Goa,GOA,3 Star,3485
+Resort Rio,GOA,3 Star,39783
+Hotel Cidade de Goa,GOA,3 Star,33888
+Majorda Beach Resort,GOA,3 Star,27110
+"The Leela Kempinski, Goa",GOA,3 Star,31807
+Hotel Trident - Gurgaon,HARYANA,3 Star,32160
+The Leela Kempinski - Gurgaon,HARYANA,3 Star,8226
+The Bristol Hotel,HARYANA,3 Star,3912
+Wildflower Hall,HIMACHAL PRADESH,3 Star,26589
+Vivanta by Taj - Whitefield,KARNATAKA,3 Star,13562
+Hotel Golden Palms Hotel & Spa,KARNATAKA,3 Star,31997
+ITC Hotel Windsor & Towers,KARNATAKA,3 Star,19827
+The Taj West End,KARNATAKA,3 Star,29402
+Sheraton Banglore at Brigade Gateway,KARNATAKA,3 Star,35960
+The Oberoi Bangalore,KARNATAKA,3 Star,37842
+Vivanta by Taj - Bangalore,KARNATAKA,3 Star,26418
+Park Plaza,KARNATAKA,1 Star,20609
+Dream Hotel Cochin,KERALA,1 Star,2989
+Vivanta by Taj - Bekal,KERALA,1 Star,5852
+The Lalit Resorts & Spa Bekal,KERALA,3 Star,2542
+Vivanta By Taj - Kovalam,KERALA,3 Star,35728
+Vivanta by - Taj Malabar,KERALA,3 Star,15745
+The Raviz Kollam,KERALA,3 Star,23558
+Kovalam Resort Private Limited,KERALA,3 Star,9403
+The Grand Temple View,MADHYA PRADESH,3 Star,37914
+Hotel Chandela,MADHYA PRADESH,3 Star,10788
+Chalet Hotel,MAHARASHTRA,3 Star,35848
+Four Seasons Hotel,MAHARASHTRA,3 Star,5864
+HOTEL SAHARA STAR,MAHARASHTRA,3 Star,31624
+Hyatt Regency Mumbai,MAHARASHTRA,1 Star,14116
+Le Royal Meridien,MAHARASHTRA,1 Star,11192
+Sun-n-Sand Hotels Pvt. Ltd.,MAHARASHTRA,1 Star,1103
+The Taj Mahal Palace & Tower,MAHARASHTRA,5 Star,14321
+Hotel Le Meridien,MAHARASHTRA,5 Star,17634
+Hotel ITC Grand Central,MAHARASHTRA,5 Star,1647
+The Leela Kempinski,MAHARASHTRA,5 Star,12911
+"The Oberoi, Mumbai",MAHARASHTRA,5 Star,20542
+The Westin Mumbai Garden City,MAHARASHTRA,5 Star,19842
+"Fariyas Resort, Lonavla",MAHARASHTRA,5 Star,9418
+"Trident, Nariman Point",MAHARASHTRA,5 Star,4114
+Taj Lands End,MAHARASHTRA,5 Star,22961
+Trident - Bhubaneswar,ORISSA,5 Star,21927
+Hotel Mayfair Lagoon,ORISSA,5 Star,29156
+ISTA Amritsar,PUNJAB,5 Star,31543
+Sheraton Rajputana Hotel,RAJASTHAN,5 Star,35805
+The Oberoi Rajvilas,RAJASTHAN,1 Star,21113
+The Oberoi Udaivilas,RAJASTHAN,1 Star,3755
+Country Inn & Suites By Carlson,RAJASTHAN,1 Star,23979
+The Leela Palace Kempinski,RAJASTHAN,1 Star,1553
+JAI MAHAL PALACE HOTEL,RAJASTHAN,1 Star,27658
+Mayfair Spa & Resort,SIKKIM,1 Star,9062
+Taj Mount Road,TAMIL NADU,1 Star,36133
+THE PARK,TAMIL NADU,1 Star,21074
+Vivanta by Taj - Fishermans Cove,TAMIL NADU,1 Star,8819
+Taj Coromandel,TAMIL NADU,1 Star,37170
+Le Royal Meridien Chennai,TAMIL NADU,1 Star,415
+ITC The Mughal,UTTAR PRADESH,1 Star,12573
+Jaypee Greens Golf & Spa Resort,UTTAR PRADESH,1 Star,26334
+Vivanta by Taj,UTTAR PRADESH,1 Star,1319
+Taj Ganges Varanasi,UTTAR PRADESH,1 Star,5532
+Radisson Hotel,UTTAR PRADESH,1 Star,14852
+Radisson MBD Hotel,UTTAR PRADESH,1 Star,20369
+Holiday Regency,UTTAR PRADESH,1 Star,38168
+Jaypee Residency Manor,UTTARAKHAND,1 Star,11140
+ITC Sonar,WEST BENGAL,1 Star,6856
+Hotel Ista Hyderabad,ANDHRA PRADESH,5 Star,28782
+Hotel Novotel Hyderabad,ANDHRA PRADESH,5 Star,23353
+Novotel Hyderabad Airport,ANDHRA PRADESH,5 Star,16526
+The Gateway Hotel,ANDHRA PRADESH,5 Star,10496
+Taj Deccan - Hyderabad,ANDHRA PRADESH,5 Star,7624
+Leo Meridian Infrastructure,ANDHRA PRADESH,5 Star,37566
+Hotel Mountview,CHANDIGARH,5 Star,39364
+Hotel Crowne Plaza Today,DELHI,5 Star,11481
+Vivanta by Taj Ambassador,DELHI,5 Star,14591
+Fortune Select Regina,GOA,5 Star,26553
+Bogmallo Beach Resort,GOA,5 Star,5604
+DEVAAYA AYURVEDA SPA RESORT,GOA,5 Star,21573
+Holiday Inn Resort,GOA,5 Star,35258
+The Crown Goa,GOA,5 Star,39015
+Hotel Neo Majestic,GOA,5 Star,31516
+The Kenilworth Beach Resort & Spa,GOA,5 Star,9518
+Hotel La Calypso Get Aways.,GOA,5 Star,33229
+"The ""O""",GOA,5 Star,4280
+Sun-n-Sand Hotel,GOA,5 Star,9764
+The Imperial Palace,GUJARAT,5 Star,21046
+Le Meridien,GUJARAT,5 Star,18906
+The Gateway Hotel Ummed,GUJARAT,5 Star,6252
+The Galaxy Hotel,HARYANA,5 Star,31277
+THE CHANCERY PAVILION,KARNATAKA,5 Star,16656
+The Zuri - Whitefield,KARNATAKA,5 Star,27562
+Fortune Park J. P. Palace,KARNATAKA,5 Star,26090
+Hotel Le Meridien - Bangalore,KARNATAKA,5 Star,4159
+Movenpick Hotel & Spa Bangalore,KARNATAKA,5 Star,26699
+Club Mahindra Lakeview,KERALA,5 Star,4434
+The Quilon Beach Hotel,KERALA,5 Star,4380
+The Elephant Court,KERALA,5 Star,27476
+Turtle On The Beach,KERALA,5 Star,38101
+Casino Hotel,KERALA,5 Star,29653
+"Trident, Cochin",KERALA,5 Star,2841
+The Gateway Hotel -Ernakulam,KERALA,5 Star,8712
+Kadavu Resort & Ayurveda Centre,KERALA,5 Star,21111
+The Muthoot Plaza Hotel,KERALA,5 Star,19482
+Taj Residency - Trivandrum,KERALA,5 Star,27517
+Hotel Ramada - Khajuraho,MADHYA PRADESH,5 Star,34526
+Radisson Jass Hotel,MADHYA PRADESH,5 Star,34577
+Grand Sarovar Premiere,MAHARASHTRA,5 Star,2539
+Hotel Meluha,MAHARASHTRA,5 Star,26787
+Hotel Tunga Regency Pvt.Ltd.,MAHARASHTRA,5 Star,36916
+Ramada Plaza Palm Grove,MAHARASHTRA,5 Star,37974
+The Shalimar Hotel,MAHARASHTRA,5 Star,3603
+THE PRIDE HOTEL,MAHARASHTRA,5 Star,5540
+Four Points By Sheraton,MAHARASHTRA,5 Star,23165
+Taj Blue Diamond,MAHARASHTRA,5 Star,36189
+The O Hotel,MAHARASHTRA,5 Star,37270
+Taj Residency - Aurangabad,MAHARASHTRA,5 Star,2291
+Hotel Sea Princess,MAHARASHTRA,5 Star,24331
+The Gateway Hotel,MAHARASHTRA,5 Star,4071
+Hotel Parc Estique,MAHARASHTRA,5 Star,16368
+Radisson Windsor Hotel,PUNJAB,5 Star,17272
+Majestic Park Plaza,PUNJAB,5 Star,2362
+Hotel Mansingh,RAJASTHAN,5 Star,38015
+"Hotel Trident, Jaipur",RAJASTHAN,5 Star,712
+Fortune Select Metropolitan - Jaipur,RAJASTHAN,5 Star,25111
+Chokhi Dhani,RAJASTHAN,5 Star,2994
+Inder Residency,RAJASTHAN,5 Star,5312
+Denzong Regency,SIKKIM,5 Star,21951
+The Gateway Hotel Pasumalai Madurai,TAMIL NADU,5 Star,34596
+Radisson Hotel GRT,TAMIL NADU,5 Star,8770
+Trident - Chennai,TAMIL NADU,5 Star,33959
+Hotel Clarks Shiraz,UTTAR PRADESH,5 Star,36397
+Hotel Trident - Agra,UTTAR PRADESH,5 Star,8050
+Country Inn & Suites by Carlson.,UTTAR PRADESH,5 Star,5876
+Radisson Hotel Varanasi,UTTAR PRADESH,5 Star,31526
+"The Gateway Hotel, Agra",UTTAR PRADESH,5 Star,23760
+Hotel Hindusthan International,WEST BENGAL,5 Star,36688
+Swissotel Kolkata Neotia Vista,WEST BENGAL,5 Star,7572
+The Golkonda,ANDHRA PRADESH,4 Star,939
+Palm Beach Hotel,ANDHRA PRADESH,4 Star,4124
+QUALITY INN DV MANOR,ANDHRA PRADESH,4 Star,30732
+Best Western Amrutha Castle,ANDHRA PRADESH,4 Star,26971
+Hotel Green Park,ANDHRA PRADESH,4 Star,7029
+Hotel Raj Mahal,ASSAM,4 Star,25832
+Hotel Natraj,ASSAM,4 Star,36644
+Hotel The Royal Plaza,DELHI,4 Star,35315
+Hotel City Park,DELHI,4 Star,11766
+Hotel Diplomat,DELHI,4 Star,32790
+Maidens Hotel,DELHI,4 Star,10315
+The Connaught,DELHI,4 Star,16169
+Hotel Vikram,DELHI,4 Star,13068
+Lazylagoon Sarovar Portico Suites,GOA,4 Star,20367
+Sun Village Resort,GOA,4 Star,8263
+WHISPERING PALMS BEACH RESORT,GOA,4 Star,14365
+The Metropole Hotel,GUJARAT,4 Star,31338
+Hotel Fortune Palace,GUJARAT,4 Star,14748
+Fortune Inn Haveli,GUJARAT,4 Star,32288
+Hotel The Grand Bhagwati,GUJARAT,4 Star,16713
+Optus Sarovar Premiere Hotel,HARYANA,4 Star,24130
+Park Premier,HARYANA,4 Star,12703
+The Bella Vista,HARYANA,4 Star,27504
+Fortune Select Global,HARYANA,4 Star,24988
+Courtyard By Marriott,HARYANA,4 Star,29951
+Fortune Park J.P.Celestial,KARNATAKA,4 Star,37992
+The Gatwway Hotel - Chikmagalur,KARNATAKA,4 Star,37156
+Raj Residency,KERALA,4 Star,8546
+Hotel Maurya Rajadhani,KERALA,4 Star,34445
+Keys Hotels,KERALA,4 Star,25710
+Hotel Blue Nile,KERALA,4 Star,2544
+Hotel Amruthaa International,KERALA,4 Star,9286
+Fragrant Nature Retreat and Resort Pvt. Ltd.,KERALA,4 Star,27745
+Hotel Presidency,KERALA,4 Star,39851
+Hotel Raj Regency,KERALA,4 Star,23967
+ATS Residency,KERALA,4 Star,20798
+The Royale Gardens,KERALA,4 Star,35271
+Hotel Srivatsa Regency,KERALA,4 Star,35521
+Hotel Hills Park,KERALA,4 Star,39576
+Neelamabari Suite,KERALA,4 Star,29593
+Excalibur Hotels & Resorts,KERALA,4 Star,11053
+Raj Residency,KERALA,4 Star,25084
+Muthoot Cardamom County Resort,KERALA,4 Star,1102
+Hotel White Dammar International,KERALA,4 Star,17290
+Hotel SP Grand Days,KERALA,4 Star,26269
+Hotel Peninsula Park Residency,KERALA,4 Star,37960
+Hotel Indraprastha,KERALA,4 Star,6473
+Hotel Mangala Towers,KERALA,4 Star,35762
+Hotel Soorya Regency,KERALA,4 Star,27707
+Hotel Moonlit Regency,KERALA,4 Star,23081
+Hotel Sky Pearl,KERALA,4 Star,33457
+The Royal Fort,KERALA,4 Star,19309
+Hotel Soorya Galaxy,KERALA,4 Star,16583
+Cochin Seaport Hotel,KERALA,4 Star,19387
+The Avenue Regent,KERALA,4 Star,34440
+Spice Village,KERALA,4 Star,6538
+Hotel Midhila Regency,KERALA,4 Star,25855
+Hotel Soorya Swagat,KERALA,4 Star,38042
+The Hotel Elegance,KERALA,4 Star,32233
+K R Grand Residency,KERALA,4 Star,28943
+Hotel Dona Castle,KERALA,4 Star,20709
+Hotel Fairmont,KERALA,4 Star,11539
+Hotel Anandha Inn Pvt. Ltd.,KERALA,4 Star,24797
+Niya Regency,KERALA,4 Star,33275
+The South Park,KERALA,4 Star,746
+Uday Samudra Leisure Beach Hotel,KERALA,4 Star,18247
+SEASONS SERVICE APARTMENTS,MAHARASHTRA,4 Star,12703
+HOTEL BAWA INTERNATIONAL,MAHARASHTRA,4 Star,39010
+Hotel Courtyard By Marriott,MAHARASHTRA,4 Star,24576
+Hotel Midtown Pritam,MAHARASHTRA,4 Star,23855
+Hotel Trident,MAHARASHTRA,4 Star,39605
+Hotel Tunga Regale,MAHARASHTRA,4 Star,3348
+Ramee Guestline Hotel,MAHARASHTRA,4 Star,33834
+"K. Raheja Corp. Pvt. Ltd. ""The Resort""",MAHARASHTRA,4 Star,38894
+Hotel Sagar Plaza,MAHARASHTRA,4 Star,10739
+The Central Park Hotel,MAHARASHTRA,4 Star,29494
+Holiday Inn Mumbai International Airport,MAHARASHTRA,4 Star,25940
+The Emerald,MAHARASHTRA,4 Star,13085
+Hotel Polo Tower,MEGHALAYA,4 Star,19497
+M.K.HOTEL,PUNJAB,4 Star,15767
+THE MAYA HOTEL (Maya Inns Ltd.),PUNJAB,4 Star,16454
+Hotel Ritz Plaza,PUNJAB,4 Star,31606
+"Country In & Suites, Ajmer",RAJASTHAN,4 Star,7257
+The Royal Plaza,SIKKIM,4 Star,18700
+The Residency Towers,TAMIL NADU,4 Star,25488
+Hotel Sangam,TAMIL NADU,4 Star,20282
+Quality Inn Sabari,TAMIL NADU,4 Star,14393
+The Savera Hotel,TAMIL NADU,4 Star,18109
+Hotel Raj Park (P) Ltd.,TAMIL NADU,4 Star,8635
+Fortune Inn Grazia,UTTAR PRADESH,4 Star,27289
+Country Inn & Suites by Carlson - Haridwar,UTTARAKHAND,4 Star,21603

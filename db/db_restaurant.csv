@@ -1,0 +1,305 @@
+HOTEL NAME,LOCATION,CUISINE,COST
+The Oberoi Cecil,EAST,Greek,CHEAP
+The Lalit Grand Palace,WEST,Southern_US,MEDIUM
+Hotel Fateh Prakash Palace,NORTH,Filipino,EXPENSIVE
+Shiv Niwas Palace,SOUTH,Indian,CHEAP
+Savoy Hotel,EAST,Jamaican,MEDIUM
+Raheem Residency,WEST,Spanish,EXPENSIVE
+Noor Us Sabah Palace,NORTH,Italian,CHEAP
+The Panjim Inn,SOUTH,Mexican,MEDIUM
+Balaram Palace Resort,EAST,Chinese,EXPENSIVE
+Nilambag Palace Hotel,WEST,British,CHEAP
+The Fort Ramgarh,NORTH,Thai,MEDIUM
+The Judges Court,SOUTH,Vietnamese,EXPENSIVE
+The Palace,EAST,Cajun_creole,CHEAP
+The Castle Naggar,WEST,Brazilian,MEDIUM
+Hotel Cherthala House,NORTH,French,EXPENSIVE
+Heritaga Methanam,SOUTH,Japanese,CHEAP
+Old Lighthouse Bristow Hotel,EAST,Irish,MEDIUM
+Hotel Le Colonial,WEST,Korean,EXPENSIVE
+Kunnathur Mana Ayurveda Heritage,NORTH,Moroccan,EXPENSIVE
+Old Harbour Hotel,SOUTH,Russian,CHEAP
+Coconut Lagoon,EAST,Greek,MEDIUM
+Beach Hotel,WEST,Southern_US,EXPENSIVE
+Palakkad Heritage Hotels,NORTH,Filipino,CHEAP
+Somatheeram Ayurvedic Beach Resort (P) Ltd.,SOUTH,Indian,MEDIUM
+The Hillway Heritage,EAST,Jamaican,EXPENSIVE
+Ahilya Fort,WEST,Spanish,CHEAP
+Hotel Rock End Manor,NORTH,Italian,MEDIUM
+Satpura Retreat,SOUTH,Mexican,EXPENSIVE
+Hotel Sheesh Mahal,EAST,Chinese,CHEAP
+Jehan Numa Palace Hotel,WEST,British,MEDIUM
+LE DUPLEIX,NORTH,Thai,EXPENSIVE
+"Welcome Heritage, Khimsar Fort",SOUTH,Vietnamese,CHEAP
+The Bagh,EAST,Cajun_creole,MEDIUM
+Gajner Palace,WEST,Brazilian,EXPENSIVE
+The Laxmi Niwas Palace,NORTH,French,CHEAP
+Chomu Palace,SOUTH,Japanese,MEDIUM
+Bissau Palace,EAST,Irish,EXPENSIVE
+Deogarh Resorts,WEST,Korean,CHEAP
+Shikarbadi Hotel,NORTH,Moroccan,MEDIUM
+Welcom Heritage - Koolwal Kothi,SOUTH,Russian,EXPENSIVE
+Ajit Bhawan,EAST,Greek,EXPENSIVE
+Hotel Samode Palace,WEST,Southern_US,CHEAP
+Raj Niwas Palace,NORTH,Filipino,MEDIUM
+Hotel Castle Mandawa Pvt.Ltd.,SOUTH,Indian,EXPENSIVE
+Rohet Garh,EAST,Jamaican,CHEAP
+Lake Pichola Hotel,WEST,Spanish,MEDIUM
+The Ramgarh Lodge,NORTH,Italian,EXPENSIVE
+Hotel Indra Villas,SOUTH,Mexican,CHEAP
+Singhasan Haveli,EAST,Chinese,MEDIUM
+Fort Khejarla,WEST,British,EXPENSIVE
+Sardargarh Heritage Hotel,NORTH,Thai,CHEAP
+The Sawai Madhopur Lodge,SOUTH,Vietnamese,MEDIUM
+Karni Bhawan Palace,EAST,Cajun_creole,EXPENSIVE
+Norkhill Hotel,WEST,Brazilian,CHEAP
+Visalam,NORTH,French,MEDIUM
+Hotel Fairhavens Holiday Home,SOUTH,Japanese,EXPENSIVE
+The Naini Retreat,EAST,Irish,CHEAP
+The Elgin Hotel,WEST,Korean,MEDIUM
+Taj Falaknuma Palace,NORTH,Moroccan,EXPENSIVE
+ITC HOTEL KAKATIYA,SOUTH,Russian,CHEAP
+Eros Hotel Managed by Hilton,EAST,Greek,MEDIUM
+The Ashok,WEST,Southern_US,EXPENSIVE
+Hotel Imperial,NORTH,Filipino,CHEAP
+Hyatt Regency Delhi,SOUTH,Indian,MEDIUM
+ITC-The Maurya,EAST,Jamaican,EXPENSIVE
+Le Meridien Hotel,WEST,Spanish,EXPENSIVE
+Taj Palace Hotel,NORTH,Italian,CHEAP
+The Lalit,SOUTH,Mexican,MEDIUM
+The Oberoi - New Delhi,EAST,Chinese,EXPENSIVE
+"Aman, New Delhi",WEST,British,CHEAP
+The Hotel Leela Palace Kempinski,NORTH,Thai,MEDIUM
+Riviera De Goa Resort,SOUTH,Vietnamese,EXPENSIVE
+Vivanta by Taj - Panaji,EAST,Cajun_creole,CHEAP
+Vivanta by Taj - Holiday,WEST,Brazilian,MEDIUM
+Bell Tower Resorts Pvt.Ltd.,NORTH,French,EXPENSIVE
+Hotel Ramada Caravela Beach Resort,SOUTH,Japanese,CHEAP
+Vivanta By Taj- Fort Aguada,EAST,Irish,MEDIUM
+Th Lalit Golf & Spa Resort Goa,WEST,Korean,EXPENSIVE
+Resort Rio,NORTH,Moroccan,CHEAP
+Hotel Cidade de Goa,SOUTH,Russian,MEDIUM
+Majorda Beach Resort,EAST,Greek,EXPENSIVE
+"The Leela Kempinski, Goa",WEST,Southern_US,CHEAP
+Hotel Trident - Gurgaon,NORTH,Filipino,MEDIUM
+The Leela Kempinski - Gurgaon,SOUTH,Indian,EXPENSIVE
+The Bristol Hotel,EAST,Jamaican,CHEAP
+Wildflower Hall,WEST,Spanish,MEDIUM
+Vivanta by Taj - Whitefield,NORTH,Italian,EXPENSIVE
+Hotel Golden Palms Hotel & Spa,SOUTH,Mexican,CHEAP
+ITC Hotel Windsor & Towers,EAST,Chinese,MEDIUM
+The Taj West End,WEST,British,EXPENSIVE
+Sheraton Banglore at Brigade Gateway,NORTH,Thai,EXPENSIVE
+The Oberoi Bangalore,SOUTH,Vietnamese,CHEAP
+Vivanta by Taj - Bangalore,EAST,Cajun_creole,MEDIUM
+Park Plaza,WEST,Brazilian,EXPENSIVE
+Dream Hotel Cochin,NORTH,French,CHEAP
+Vivanta by Taj - Bekal,SOUTH,Japanese,MEDIUM
+The Lalit Resorts & Spa Bekal,EAST,Irish,EXPENSIVE
+Vivanta By Taj - Kovalam,WEST,Korean,CHEAP
+Vivanta by - Taj Malabar,NORTH,Moroccan,MEDIUM
+The Raviz Kollam,SOUTH,Russian,EXPENSIVE
+Kovalam Resort Private Limited,EAST,Greek,CHEAP
+The Grand Temple View,WEST,Southern_US,MEDIUM
+Hotel Chandela,NORTH,Filipino,EXPENSIVE
+Chalet Hotel,SOUTH,Indian,CHEAP
+Four Seasons Hotel,EAST,Jamaican,MEDIUM
+HOTEL SAHARA STAR,WEST,Spanish,EXPENSIVE
+Hyatt Regency Mumbai,NORTH,Italian,CHEAP
+Le Royal Meridien,SOUTH,Mexican,MEDIUM
+Sun-n-Sand Hotels Pvt. Ltd.,EAST,Chinese,EXPENSIVE
+The Taj Mahal Palace & Tower,WEST,British,CHEAP
+Hotel Le Meridien,EAST,Thai,MEDIUM
+Hotel ITC Grand Central,WEST,Vietnamese,EXPENSIVE
+The Leela Kempinski,NORTH,Cajun_creole,CHEAP
+"The Oberoi, Mumbai",SOUTH,Brazilian,MEDIUM
+The Westin Mumbai Garden City,EAST,French,EXPENSIVE
+"Fariyas Resort, Lonavla",WEST,Japanese,EXPENSIVE
+"Trident, Nariman Point",NORTH,Irish,CHEAP
+Taj Lands End,SOUTH,Korean,MEDIUM
+Trident - Bhubaneswar,EAST,Moroccan,EXPENSIVE
+Hotel Mayfair Lagoon,WEST,Russian,CHEAP
+ISTA Amritsar,NORTH,Greek,MEDIUM
+Sheraton Rajputana Hotel,SOUTH,Southern_US,EXPENSIVE
+The Oberoi Rajvilas,EAST,Filipino,CHEAP
+The Oberoi Udaivilas,WEST,Indian,CHEAP
+Country Inn & Suites By Carlson,NORTH,Jamaican,MEDIUM
+The Leela Palace Kempinski,SOUTH,Spanish,EXPENSIVE
+JAI MAHAL PALACE HOTEL,EAST,Italian,CHEAP
+Mayfair Spa & Resort,WEST,Mexican,MEDIUM
+Taj Mount Road,NORTH,Chinese,EXPENSIVE
+THE PARK,SOUTH,British,CHEAP
+Vivanta by Taj - Fishermans Cove,EAST,Thai,MEDIUM
+Taj Coromandel,WEST,Vietnamese,EXPENSIVE
+Le Royal Meridien Chennai,NORTH,Cajun_creole,CHEAP
+ITC The Mughal,SOUTH,Brazilian,MEDIUM
+Jaypee Greens Golf & Spa Resort,EAST,French,EXPENSIVE
+Vivanta by Taj,WEST,Japanese,CHEAP
+Taj Ganges Varanasi,NORTH,Irish,MEDIUM
+Radisson Hotel,SOUTH,Korean,EXPENSIVE
+Radisson MBD Hotel,EAST,Moroccan,CHEAP
+Holiday Regency,WEST,Russian,MEDIUM
+Jaypee Residency Manor,NORTH,Greek,EXPENSIVE
+ITC Sonar,SOUTH,Southern_US,EXPENSIVE
+Hotel Ista Hyderabad,EAST,Filipino,CHEAP
+Hotel Novotel Hyderabad,WEST,Indian,MEDIUM
+Novotel Hyderabad Airport,NORTH,Jamaican,EXPENSIVE
+The Gateway Hotel,SOUTH,Spanish,CHEAP
+Taj Deccan - Hyderabad,EAST,Italian,MEDIUM
+Leo Meridian Infrastructure,WEST,Mexican,EXPENSIVE
+Hotel Mountview,NORTH,Chinese,CHEAP
+Hotel Crowne Plaza Today,SOUTH,British,MEDIUM
+Vivanta by Taj Ambassador,EAST,Thai,EXPENSIVE
+Fortune Select Regina,WEST,Vietnamese,CHEAP
+Bogmallo Beach Resort,NORTH,Cajun_creole,MEDIUM
+DEVAAYA AYURVEDA SPA RESORT,SOUTH,Brazilian,EXPENSIVE
+Holiday Inn Resort,EAST,French,CHEAP
+The Crown Goa,WEST,Japanese,MEDIUM
+Hotel Neo Majestic,NORTH,Irish,EXPENSIVE
+The Kenilworth Beach Resort & Spa,SOUTH,Korean,CHEAP
+Hotel La Calypso Get Aways.,EAST,Moroccan,MEDIUM
+"The ""O""",WEST,Russian,EXPENSIVE
+Sun-n-Sand Hotel,NORTH,Greek,CHEAP
+The Imperial Palace,SOUTH,Southern_US,MEDIUM
+Le Meridien,EAST,Filipino,EXPENSIVE
+The Gateway Hotel Ummed,WEST,Indian,CHEAP
+The Galaxy Hotel,NORTH,Jamaican,MEDIUM
+THE CHANCERY PAVILION,SOUTH,Spanish,EXPENSIVE
+The Zuri - Whitefield,EAST,Italian,EXPENSIVE
+Fortune Park J. P. Palace,WEST,Mexican,CHEAP
+Hotel Le Meridien - Bangalore,NORTH,Chinese,MEDIUM
+Movenpick Hotel & Spa Bangalore,SOUTH,British,EXPENSIVE
+Club Mahindra Lakeview,NORTH,Thai,CHEAP
+The Quilon Beach Hotel,SOUTH,Vietnamese,MEDIUM
+The Elephant Court,EAST,Cajun_creole,EXPENSIVE
+Turtle On The Beach,WEST,Brazilian,CHEAP
+Casino Hotel,NORTH,French,MEDIUM
+"Trident, Cochin",SOUTH,Japanese,EXPENSIVE
+The Gateway Hotel -Ernakulam,EAST,Irish,CHEAP
+Kadavu Resort & Ayurveda Centre,WEST,Korean,MEDIUM
+The Muthoot Plaza Hotel,NORTH,Moroccan,EXPENSIVE
+Taj Residency - Trivandrum,SOUTH,Russian,CHEAP
+Hotel Ramada - Khajuraho,EAST,Greek,MEDIUM
+Radisson Jass Hotel,WEST,Southern_US,EXPENSIVE
+Grand Sarovar Premiere,NORTH,Filipino,CHEAP
+Hotel Meluha,SOUTH,Indian,MEDIUM
+Hotel Tunga Regency Pvt.Ltd.,EAST,Jamaican,EXPENSIVE
+Ramada Plaza Palm Grove,WEST,Spanish,CHEAP
+The Shalimar Hotel,NORTH,Italian,MEDIUM
+THE PRIDE HOTEL,SOUTH,Mexican,EXPENSIVE
+Four Points By Sheraton,EAST,Chinese,CHEAP
+Taj Blue Diamond,WEST,British,MEDIUM
+The O Hotel,NORTH,Thai,EXPENSIVE
+Taj Residency - Aurangabad,SOUTH,Vietnamese,EXPENSIVE
+Hotel Sea Princess,EAST,Cajun_creole,CHEAP
+The Gateway Hotel,WEST,Brazilian,MEDIUM
+Hotel Parc Estique,NORTH,French,EXPENSIVE
+Radisson Windsor Hotel,SOUTH,Japanese,CHEAP
+Majestic Park Plaza,EAST,Irish,MEDIUM
+Hotel Mansingh,WEST,Korean,EXPENSIVE
+"Hotel Trident, Jaipur",NORTH,Moroccan,CHEAP
+Fortune Select Metropolitan - Jaipur,SOUTH,Russian,MEDIUM
+Chokhi Dhani,EAST,Greek,EXPENSIVE
+Inder Residency,WEST,Southern_US,CHEAP
+Denzong Regency,NORTH,Filipino,MEDIUM
+The Gateway Hotel Pasumalai Madurai,SOUTH,Indian,EXPENSIVE
+Radisson Hotel GRT,EAST,Jamaican,CHEAP
+Trident - Chennai,WEST,Spanish,MEDIUM
+Hotel Clarks Shiraz,NORTH,Italian,EXPENSIVE
+Hotel Trident - Agra,SOUTH,Mexican,CHEAP
+Country Inn & Suites by Carlson.,EAST,Chinese,MEDIUM
+Radisson Hotel Varanasi,WEST,British,EXPENSIVE
+"The Gateway Hotel, Agra",NORTH,Thai,CHEAP
+Hotel Hindusthan International,SOUTH,Vietnamese,MEDIUM
+Swissotel Kolkata Neotia Vista,EAST,Cajun_creole,EXPENSIVE
+The Golkonda,WEST,Brazilian,CHEAP
+Palm Beach Hotel,NORTH,French,MEDIUM
+QUALITY INN DV MANOR,SOUTH,Japanese,EXPENSIVE
+Best Western Amrutha Castle,EAST,Irish,EXPENSIVE
+Hotel Green Park,WEST,Korean,CHEAP
+Hotel Raj Mahal,NORTH,Moroccan,MEDIUM
+Hotel Natraj,SOUTH,Russian,EXPENSIVE
+Hotel The Royal Plaza,EAST,Greek,CHEAP
+Hotel City Park,WEST,Southern_US,MEDIUM
+Hotel Diplomat,NORTH,Filipino,EXPENSIVE
+Maidens Hotel,SOUTH,Indian,CHEAP
+The Connaught,EAST,Jamaican,MEDIUM
+Hotel Vikram,WEST,Spanish,EXPENSIVE
+Lazylagoon Sarovar Portico Suites,NORTH,Italian,CHEAP
+Sun Village Resort,SOUTH,Mexican,MEDIUM
+WHISPERING PALMS BEACH RESORT,EAST,Chinese,EXPENSIVE
+The Metropole Hotel,WEST,British,CHEAP
+Hotel Fortune Palace,NORTH,Thai,MEDIUM
+Fortune Inn Haveli,SOUTH,Vietnamese,EXPENSIVE
+Hotel The Grand Bhagwati,EAST,Cajun_creole,CHEAP
+Optus Sarovar Premiere Hotel,WEST,Brazilian,MEDIUM
+Park Premier,NORTH,French,EXPENSIVE
+The Bella Vista,SOUTH,Japanese,CHEAP
+Fortune Select Global,EAST,Irish,MEDIUM
+Courtyard By Marriott,WEST,Korean,EXPENSIVE
+Fortune Park J.P.Celestial,EAST,Moroccan,CHEAP
+The Gatwway Hotel - Chikmagalur,WEST,Russian,MEDIUM
+Raj Residency,NORTH,Greek,EXPENSIVE
+Hotel Maurya Rajadhani,SOUTH,Southern_US,EXPENSIVE
+Keys Hotels,EAST,Filipino,CHEAP
+Hotel Blue Nile,WEST,Indian,MEDIUM
+Hotel Amruthaa International,NORTH,Jamaican,EXPENSIVE
+Fragrant Nature Retreat and Resort Pvt. Ltd.,SOUTH,Spanish,CHEAP
+Hotel Presidency,EAST,Italian,MEDIUM
+Hotel Raj Regency,WEST,Mexican,EXPENSIVE
+ATS Residency,NORTH,Chinese,CHEAP
+The Royale Gardens,SOUTH,British,CHEAP
+Hotel Srivatsa Regency,EAST,Thai,MEDIUM
+Hotel Hills Park,WEST,Vietnamese,EXPENSIVE
+Neelamabari Suite,NORTH,Cajun_creole,CHEAP
+Excalibur Hotels & Resorts,SOUTH,Brazilian,MEDIUM
+Raj Residency,EAST,French,EXPENSIVE
+Muthoot Cardamom County Resort,WEST,Japanese,CHEAP
+Hotel White Dammar International,NORTH,Irish,MEDIUM
+Hotel SP Grand Days,SOUTH,Korean,EXPENSIVE
+Hotel Peninsula Park Residency,EAST,Moroccan,CHEAP
+Hotel Indraprastha,WEST,Russian,MEDIUM
+Hotel Mangala Towers,NORTH,Greek,EXPENSIVE
+Hotel Soorya Regency,SOUTH,Southern_US,CHEAP
+Hotel Moonlit Regency,EAST,Filipino,MEDIUM
+Hotel Sky Pearl,WEST,Indian,EXPENSIVE
+The Royal Fort,NORTH,Jamaican,CHEAP
+Hotel Soorya Galaxy,SOUTH,Spanish,MEDIUM
+Cochin Seaport Hotel,EAST,Italian,EXPENSIVE
+The Avenue Regent,WEST,Mexican,EXPENSIVE
+Spice Village,NORTH,Chinese,CHEAP
+Hotel Midhila Regency,SOUTH,British,MEDIUM
+Hotel Soorya Swagat,EAST,Thai,CHEAP
+The Hotel Elegance,WEST,Vietnamese,MEDIUM
+K R Grand Residency,NORTH,Cajun_creole,EXPENSIVE
+Hotel Dona Castle,SOUTH,Brazilian,CHEAP
+Hotel Fairmont,EAST,French,MEDIUM
+Hotel Anandha Inn Pvt. Ltd.,WEST,Japanese,EXPENSIVE
+Niya Regency,NORTH,Irish,CHEAP
+The South Park,SOUTH,Korean,MEDIUM
+Uday Samudra Leisure Beach Hotel,EAST,Moroccan,EXPENSIVE
+SEASONS SERVICE APARTMENTS,WEST,Russian,CHEAP
+HOTEL BAWA INTERNATIONAL,NORTH,Greek,MEDIUM
+Hotel Courtyard By Marriott,SOUTH,Southern_US,EXPENSIVE
+Hotel Midtown Pritam,EAST,Filipino,CHEAP
+Hotel Trident,WEST,Indian,MEDIUM
+Hotel Tunga Regale,NORTH,Jamaican,EXPENSIVE
+Ramee Guestline Hotel,SOUTH,Spanish,CHEAP
+"K. Raheja Corp. Pvt. Ltd. ""The Resort""",EAST,Italian,MEDIUM
+Hotel Sagar Plaza,WEST,Mexican,EXPENSIVE
+The Central Park Hotel,NORTH,Chinese,EXPENSIVE
+Holiday Inn Mumbai International Airport,SOUTH,British,CHEAP
+The Emerald,EAST,Thai,MEDIUM
+Hotel Polo Tower,WEST,Vietnamese,EXPENSIVE
+M.K.HOTEL,NORTH,Cajun_creole,CHEAP
+THE MAYA HOTEL (Maya Inns Ltd.),SOUTH,Brazilian,MEDIUM
+Hotel Ritz Plaza,EAST,French,EXPENSIVE
+"Country In & Suites, Ajmer",WEST,Japanese,CHEAP
+The Royal Plaza,NORTH,Irish,MEDIUM
+The Residency Towers,SOUTH,Korean,EXPENSIVE
+Hotel Sangam,EAST,Moroccan,CHEAP
+Quality Inn Sabari,WEST,Russian,MEDIUM
+The Savera Hotel,NORTH,Greek,EXPENSIVE
+Hotel Raj Park (P) Ltd.,SOUTH,Southern_US,CHEAP
+Fortune Inn Grazia,EAST,Filipino,MEDIUM
+Country Inn & Suites by Carlson - Haridwar,WEST,Indian,EXPENSIVE

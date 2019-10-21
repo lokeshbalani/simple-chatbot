@@ -286,17 +286,17 @@ def BookRestaurant(attributes):
 		
 		return output
 	else:
-		return "No Restaurant found for the provided parameters"
+		return "No Restaurant found for the provided input"    #changing return comment section to our own variable 
 	
 
 session = Session()
 
-print("RESTAURANT/HOTEL BOOKING PORTAL")
-print("Welcome to the Hotel/Restaurant Booking Portal. What do you want to do?")
+print("RESTAURANT/HOTEL BOOKING PORTAL in your city now")
+print("Welcome to the Hotel/Restaurant Booking Portal by deepak sahu. What do you want to do?")  #changing print values 
 print("1. Book a Hotel")
 print("2. Book a Restaurant\n\n")
 
-print ('[Team 53 BOT]: Hi! How may I assist you?')
+print ('[Team 53 BOT]: Hi! How may I help you?')
 
 while True:
 	

@@ -291,12 +291,12 @@ def BookRestaurant(attributes):
 
 session = Session()
 
-print("RESTAURANT/HOTEL BOOKING PORTAL")
-print("Welcome to the Hotel/Restaurant Booking Portal. What do you want to do?")
-print("1. Book a Hotel")
-print("2. Book a Restaurant\n\n")
+print("RESTAURANTS/HOTELS BOOKING PORTAL BY VIKASH GUPTA")      #changing the print statements 
+print("Welcome to the Hotels/Restaurants Booking Portal. What do you want to do?")
+print("1. Book a Hotel instantly")
+print("2. Book a Restaurant instantly\n\n")
 
-print ('[Team 53 BOT]: Hi! How may I assist you?')
+print ('[Team 53 BOT]: Hi! How may I better  help  you?')   #changing the bot reply
 
 while True:
 	
